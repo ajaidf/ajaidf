@@ -1,5 +1,5 @@
 ## Hallo Semua! Saya Ajai Darman Fauji 👋
-#### Saya senang belajar membuat website yang sederhana 😄
+#### Saya merupakan mahasiswa jurusan Sistem Informasi yang senang belajar mebuat web sederhana dan inginterus belajar membuat website yang keren 😄
 <!--
 **ajaidf/ajaidf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
