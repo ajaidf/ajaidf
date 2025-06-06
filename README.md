@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/ajaidf/ajaidf/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ajaidf&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ajaidf&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaidf&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ajaidf&icon=0&color=0)](https://visitcount.itsvg.in)
