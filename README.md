@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/ajaidf/ajaidf/output/snake.svg" alt="Snake animation" />
 
